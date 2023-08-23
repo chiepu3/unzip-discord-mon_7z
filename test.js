@@ -11,5 +11,4 @@ Seven.extract(archivePath, 'export', {
     $bin: pathTo7zip,
     password: "momo",
     noArchiveOnFail: true,
-    techInfo: true,
 })
